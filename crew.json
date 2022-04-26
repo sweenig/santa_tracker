@@ -1,0 +1,29 @@
+{
+  "Elf": [
+    {"name": "Santa Claus"}
+  ],
+  "Reindeer": [
+    {"name": "Rudolph", "age": 83, "source": "Robert L. May"},
+    {"name": "Dasher", "age": 199, "source": "Clement C. Moore"},
+    {"name": "Dancer", "age": 199, "source": "Clement C. Moore"},
+    {"name": "Prancer", "age": 199, "source": "Clement C. Moore"},
+    {"name": "Vixen", "age": 199, "source": "Clement C. Moore"},
+    {"name": "Comet", "age": 199, "source": "Clement C. Moore"},
+    {"name": "Cupid", "age": 199, "source": "Clement C. Moore"},
+    {"name": "Donder", "age": 199, "source": "Clement C. Moore"},
+    {"name": "Blitzen", "age": 199, "source": "Clement C. Moore"},
+    {"name": "Flossie", "age": 120, "source": "L. Frank Baum"},
+    {"name": "Glossie", "age": 120, "source": "L. Frank Baum"},
+    {"name": "Racer", "age": 120, "source": "L. Frank Baum"},
+    {"name": "Pacer", "age": 120, "source": "L. Frank Baum"},
+    {"name": "Reckless", "age": 120, "source": "L. Frank Baum"},
+    {"name": "Speckless", "age": 120, "source": "L. Frank Baum"},
+    {"name": "Fearless", "age": 120, "source": "L. Frank Baum"},
+    {"name": "Peerless", "age": 120, "source": "L. Frank Baum"},
+    {"name": "Ready", "age": 120, "source": "L. Frank Baum"},
+    {"name": "Steady", "age": 120, "source": "L. Frank Baum"}
+  ],
+  "Donkey": [
+    {"name": "Dominick", "age": 62, "source": "Ray Allen, Sam Saltzberg, Wandra Merrell, and Lou Monte", "alternative_names": ["Spieltote", "Nestor"]}
+  ]
+}
