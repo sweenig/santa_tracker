@@ -1,6 +1,6 @@
 {
   "Elf": [
-    {"name": "Santa Claus", "age": 1751}
+    {"name": "Santa Claus", "age": 1751, "aliases": ["Father Christmas","Kris Kringle","Papa Elf", "Papa Noel", "Weihnachtsmann"]}
   ],
   "Reindeer": [
     {"name": "Rudolph", "age": 83, "source": "Robert L. May"},
